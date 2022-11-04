@@ -4,7 +4,7 @@ import './BtnToggle.css'
 export default function BtnToggle() {
     return (
 
-        <button className='btnToggle'>
+        <button className='btn-toggle'>
 Toggle
         </button>
     )
