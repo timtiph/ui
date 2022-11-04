@@ -10,3 +10,8 @@
     align-items: center;
     outline: none;
 }
+
+.dark-btn {
+    background: #222;
+    color: #f1f1f1;
+}
